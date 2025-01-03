@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body
+{
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  background-color: #41a1bc;
+}
+
+.th
+{
+  color: rgb(159, 158, 158);
+}
+
+.foto-articl
+{
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+}
+
+.video-articl
+{
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+}
+
+.elmurod-articl
+{
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+}
+
+.youtube-articl
+{
+  /* display: flex; */
+  column-gap: 50px;
+  align-items: center;
+}
+
+.youtube
+{
+  display: flex;
+  align-items: center;
+
+}
+
+   /*  */
+  /*  */
+ /*  */
